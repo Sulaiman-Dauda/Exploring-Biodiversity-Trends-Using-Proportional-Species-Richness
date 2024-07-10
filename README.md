@@ -10,6 +10,6 @@ _**Technology**_:- R, ggplot2, stats package.
 
 _**Results**_:- The analysis reveals significant correlations between certain taxonomic groups, with Bird and Macromoths showing the strongest positive correlation (0.83). Biodiversity trends indicate varied changes across taxonomic groups between 1970 and 2000, with notable increases observed in Vascular plants and Isopods. Regression analyses highlight predictors of biodiversity change, with ecological variables like Carabids and Vascular plants significantly influencing biodiversity metrics.
 
-_**Code**_:- [Exploring Biodiversity Trends Using Proportional Species Richness.R](https://github.com/Sulaiman-Dauda/portfolio-projects/blob/main/Project%202%20-%20Exploring%20Biodiversity%20Trends%20Using%20Proportional%20Species%20Richness%20Data.Rmd)
+_**Code**_:- [Exploring Biodiversity Trends Using Proportional Species Richness.R](https://github.com/Sulaiman-Dauda/Exploring-Biodiversity-Trends-Using-Proportional-Species-Richness/blob/main/code.R)
 
-_**Presentation**_: 
+_**Presentation**_: [PDF](https://github.com/Sulaiman-Dauda/Exploring-Biodiversity-Trends-Using-Proportional-Species-Richness/blob/main/Presentation.pdf)
